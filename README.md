@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashirwad Sinha
 
-<!--
-**ashir1S/ashir1S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd‑Year MCA Student at Thapar University  
+🧠 Learning Deep Learning & Computer Vision with PyTorch (ZTM Course)  
+🌱 Exploring real‑world AI/ML projects to strengthen practical skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Explorations
+
+- **AI_Assistant** 🤖  
+  A virtual‑assistant prototype created with guidance from ChatGPT & Gemini  
+  *(Focus: natural language logic & interface flow)*
+
+- **Bone Fracture Detection UI** 🦴  
+  A Streamlit dashboard UI prototype  
+  *(Built for layout practice, light/dark toggles, sidebar controls)*
+
+- **FashionMNIST Classifier** 🧠  
+  A CNN‑based image classification project in PyTorch  
+  *(Hands‑on learning during PyTorch course)*
+
+- **DriverGazeAI** 🛣️ *(Planned)*  
+  A computer‑vision system to detect driver distraction & gaze direction  
+  *(Idea stage — coming soon)*
+
+---
+
+## 💻 Languages
+
+- Python  
+- C++  
+- C  
+- Java *(basic knowledge; not recently practiced)*
+
+---
+
+## 🔧 Tools & Frameworks
+
+- PyTorch  
+- Jupyter Notebook  
+- Git & GitHub  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- Streamlit  
+- VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Ashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashir1S&show_icons=true&theme=react)
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINK)
+
+---
+
+> ⚡ _“Still learning. Still building. One commit at a time.”_

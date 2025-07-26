@@ -46,10 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashir1S&show_icons=true&theme=react)
-
 <!-- Top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashir1S&layout=compact&theme=react)
 

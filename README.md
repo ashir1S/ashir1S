@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashirwad Sinha
 
 🎓 2nd‑Year MCA Student at Thapar University  
-🧠 Learning Deep Learning & Computer Vision with PyTorch (ZTM Course)  
+🧠 Learning Deep Learning & Computer Vision with PyTorch
 🌱 Exploring real‑world AI/ML projects to strengthen practical skills
 
 ---

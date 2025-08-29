@@ -49,11 +49,6 @@
 <!-- Top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashir1S&layout=compact&theme=react)
 
-<!-- Streak -->
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashir1S&theme=react)
-
----
-
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashirwad-sinha1/)

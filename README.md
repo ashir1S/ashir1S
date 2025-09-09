@@ -57,6 +57,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashirwad-sinha1/)  
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blueviolet?style=for-the-badge&logo=vercel)](https://my-portfolio-silk-seven-66.vercel.app/)
 ---
 
 > ⚡ _“Still learning. Still building. One commit at a time.”_

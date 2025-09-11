@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashirwad Sinha  
 
 🎓 2nd-Year MCA Student at Thapar Institute of Engineering & Technology  
-🧠 Exploring Machine Learning, Deep Learning & Computer Vision with PyTorch  
+🧠 Exploring Machine Learning, Deep Learning & Computer Vision
 🌱 Passionate about solving real-world problems through AI/ML  
 
 ---

@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ashirwad%20Sinha&fontSize=70&animation=twinkling" alt="Ashirwad Sinha profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=250&section=header&text=Ashirwad%20Sinha&fontSize=70&animation=twinkling&fontColor=ffffff" alt="Ashirwad Sinha profile header" />
 </p>
 
 <!-- Title -->
 <h3 align="center">
     <samp>
         &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/ashirwad-sinha1">Ashirwad Sinha</a></b>
+        <b><a target="_blank" style="color: #00f2fe;" href="https://www.linkedin.com/in/ashirwad-sinha1">Ashirwad Sinha</a></b>
     </samp>
 </h3>
 
@@ -20,31 +20,32 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Incoming+Analyst+%40+Deloitte+USI;Artificial+Intelligence+%26+Deep+Learning;Computer+Vision+Specialist;Building+Impactful+AI+Systems"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=00F2FE&center=true&vCenter=true&width=900&lines=Incoming+Analyst+%40+Deloitte+USI;Artificial+Intelligence+%26+Deep+Learning;Computer+Vision+Specialist;Building+Impactful+AI+Systems"
     alt="Typing SVG"
   />
 </p>
 
+<!-- Frost Anime Tech GIF -->
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated machine learning visual">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBxaTNweXFvbzZ6bWZ6bmoxbnZjM3U0bTJ5eDZxdzB5cXl2MTEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0Iz2r4qGvK7o8uI/giphy.gif" width="450" alt="Animated icy blue machine learning visual">
 </p>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ashir1S)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/ashir1S)
 
-<!-- Core Links (Replaced Custom SVGs with Functional Badges) -->
+<!-- Core Links -->
 <p align="center">
-  <samp><b>🚀 SYSTEM ACCESS 🚀</b></samp><br><br>
-  <a href="https://github.com/ashir1S/my-portfolio">
-    <img src="https://img.shields.io/badge/Launch-My_Portfolio-8a49a8?style=for-the-badge&logo=react" alt="Portfolio" />
+  <samp><b>❄️ SYSTEM ACCESS ❄️</b></samp><br><br>
+  <a href="https://my-portfolio-silk-seven-66.vercel.app/">
+    <img src="https://img.shields.io/badge/Launch-My_Portfolio-00bfff?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://huggingface.co/spaces/Ashirwad12">
-    <img src="https://img.shields.io/badge/Access-Hugging_Face_Spaces-yellow?style=for-the-badge&logo=huggingface" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Access-Hugging_Face_Spaces-0077b6?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   </a>
 </p>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/ashir1S)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/ashir1S)
 
-# 🛠 Technologies & Core Projects
+# 🧊 Technologies & Core Projects
 
 <table border="0" cellspacing="10" cellpadding="0" width="100%">
 <tr>
@@ -52,7 +53,7 @@
 <!-- LEFT: TOOLS -->
 <td width="50%" valign="top" align="center">
 
-<h3>🛠 Technologies</h3>
+<h3>🛠️ Technologies</h3>
 <br>
 
 <table align="center" cellspacing="0" cellpadding="6">
@@ -77,13 +78,13 @@
 <!-- RIGHT: PROJECTS -->
 <td width="50%" valign="top" align="left">
 
-<h3>🧪 The "Big 4" Deployments</h3>
+<h3>🏔️ The "Big 4" Deployments</h3>
 <br>
 <ul>
   <li><b>Jet Particle Classification</b> - <i>1st Runner-Up NSSC '25 (IIT KGP)</i></li>
   <li><b>Sentinel (Drone Analysis)</b> - <i>National Finalist Jagriti '26 (IIT BHU)</i></li>
   <li><b>Industrial Part Counting</b> - <i>Top 5 SOLIDWORKS AI '26 (IIT Madras)</i></li>
-  <li><b><a href="https://github.com/ashir1S/FitAI">FitAI</a></b> - <i>Smart Random Forest Recommendation Engine</i></li>
+  <li><b><a href="https://github.com/ashir1S/Dog-Breed-Classifier">Dog Breed Classifier</a></b> - <i>PyTorch & ResNet-50 Pipeline (>90% Accuracy)</i></li>
 </ul>
 
 </td>
@@ -92,39 +93,37 @@
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/ashir1S)
 
-### 📊 Vital Statistics
+### ❄️ Vital Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashir1S&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashir1S&theme=nord" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashir1S&theme=radical" alt="GitHub profile contribution summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashir1S&theme=nord" alt="GitHub profile contribution summary" />
 </p>    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashir1S&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=ashir1S&label=PROFILE%20VIEWS&color=00bfff&style=flat-square" alt="Views" />
 </p>
 
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/ashir1S)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/ashir1S)
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<!-- PERFECTLY CENTERED COLLAB & CONTACT SECTION -->
+<table align="center" width="90%" border="0" cellspacing="10" cellpadding="0">
 <tr>
 
 <!-- LEFT: COLLAB -->
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h2>🤝 Collaboration</h2>
 
-I’m open to collaborating on:
-
-<ul>
-  <li>Computer Vision architectures</li>
-  <li>Predictive ML pipelines</li>
-  <li>End-to-End AI deployments</li>
-  <li>Hackathons & Open Source</li>
-</ul>
+I’m open to collaborating on:<br><br>
+🔹 Computer Vision architectures<br>
+🔹 Predictive ML pipelines<br>
+🔹 End-to-End AI deployments<br>
+🔹 Hackathons & Open Source
 
 </td>
 
@@ -135,12 +134,12 @@ I’m open to collaborating on:
 <br>
 
 <a href="https://www.linkedin.com/in/ashirwad-sinha1">
-  <img src="https://img.shields.io/badge/linkedin-ashirwad--sinha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+  <img src="https://img.shields.io/badge/linkedin-ashirwad--sinha-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile link">
 </a>
 <br><br>
 
 <a href="https://github.com/ashir1S">
-  <img src="https://img.shields.io/badge/github-ashir1S-black?style=for-the-badge&logo=github" alt="GitHub profile link">
+  <img src="https://img.shields.io/badge/github-ashir1S-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile link">
 </a>
 
 </td>
@@ -148,12 +147,12 @@ I’m open to collaborating on:
 </tr>
 </table>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/ashir1S)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/ashir1S)
 
 <p align="center">
-⚡ Translating scientific data concepts into optimized production systems.
+<samp>❄️ Translating scientific data concepts into optimized production systems. ❄️</samp>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>

@@ -109,9 +109,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashir1S&theme=radical" alt="Streak" />
 </p>
 
-<!-- STATS IMAGE FIXED -->
+<!-- STATS IMAGE FIXED: Using the stable provider but the 'stats' endpoint to hide repos -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashir1S&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashir1S&theme=radical" alt="GitHub Stats" />
 </p>    
 
 <p align="center">

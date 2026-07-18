@@ -80,9 +80,9 @@
 <h3>🧪 The "Big 4" Deployments</h3>
 <br>
 <ul>
-  <li><b><a href="https://github.com/ashir1S/IIT_Kh_NSSC_Data_Analytics_Hackathon">Jet Particle Classification</a></b> - <i>1st Runner-Up NSSC '25 (IIT KGP)</i></li>
-  <li><b>Sentinel (Drone Analysis)</b> - <i>National Finalist Jagriti '26 (IIT BHU)</i></li>
-  <li><b><a href="https://github.com/ashir1S/IIT_Madras_Solidworks_AI">Industrial Part Counting</a></b> - <i>Top 5 SOLIDWORKS AI '26 (IIT Madras)</i></li>
+  <li><b><a href="https://github.com/ashir1S/IIT_Kh_NSSC_Data_Analytics_Hackathon">Jet Particle Classification</a></b> - <i>High-Energy Physics Analysis</i></li>
+  <li><b>Sentinel (Drone Analysis)</b> - <i>Automated Aerial Surveillance Pipeline</i></li>
+  <li><b><a href="https://github.com/ashir1S/IIT_Madras_Solidworks_AI">Industrial Part Counting</a></b> - <i>Manufacturing Computer Vision System</i></li>
   <li><b><a href="https://github.com/ashir1S/Dog-Breed-Classifier">Dog Breed Classifier</a></b> - <i>PyTorch & ResNet-50 Pipeline (>90% Accuracy)</i></li>
 </ul>
 
@@ -92,14 +92,26 @@
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/ashir1S)
 
+# 🏆 Hackathons & Achievements
+
+<ul>
+  <li>🥈 <b>1st Runner-Up (National)</b> - Data Analytics, NSSC '25 <i>(IIT Kharagpur)</i></li>
+  <li>🏅 <b>Top 5 (National)</b> - SOLIDWORKS AI Hackathon '26 <i>(IIT Madras)</i></li>
+  <li>🏅 <b>National Finalist</b> - Hackwise, IRIS '26 <i>(IIM Indore)</i></li>
+  <li>🏅 <b>National Finalist</b> - Jagriti '26 <i>(IIT BHU)</i></li>
+</ul>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/ashir1S)
+
 ### 📊 Vital Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashir1S&theme=radical" alt="Streak" />
 </p>
 
+<!-- STATS IMAGE FIXED -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashir1S&theme=radical&show_icons=true&hide=repos&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashir1S&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>    
 
 <p align="center">

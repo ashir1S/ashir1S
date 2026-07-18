@@ -1,63 +1,159 @@
-# 👋 Hi, I'm Ashirwad Sinha  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ashirwad%20Sinha&fontSize=70&animation=twinkling" alt="Ashirwad Sinha profile header" />
+</p>
 
-🎓 2nd-Year MCA Student at Thapar Institute of Engineering & Technology.  
-🧠 Exploring Machine Learning, Deep Learning & Computer Vision.             
-🌱 Passionate about solving real-world problems through AI/ML.  
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/ashirwad-sinha1">Ashirwad Sinha</a></b>
+    </samp>
+</h3>
 
----
+<br>
 
-## 🚀 Projects  
+<p align="center">
+<samp>
+「 MCA @ Thapar Institute | AI/ML Practitioner building Computer Vision & Predictive Systems 」  
+</samp>
+</p>
 
-- **Food-101 Classifier** 🍔  
-  Fine-tuned Vision Transformer (ViT-B/32) on the Food-101 dataset (101K images), achieving **80.97% Top-1 accuracy**.  
-  *Deployed with Gradio on Hugging Face Spaces for real-time food image classification.*  
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Incoming+Analyst+%40+Deloitte+USI;Artificial+Intelligence+%26+Deep+Learning;Computer+Vision+Specialist;Building+Impactful+AI+Systems"
+    alt="Typing SVG"
+  />
+</p>
 
-- **Dog Breed Classifier** 🐶  
-  Fine-tuned ResNet-50 on 157 dog breeds (17K+ images), achieving **90.71% validation accuracy**.  
-  *Interactive Gradio demo on Hugging Face Spaces with staged unfreezing, LR scheduling & checkpointing.*  
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated machine learning visual">
+</p>
 
-- **Sales Data Analysis** 📊  
-  Cleaned and analyzed sales datasets using Pandas & NumPy.  
-  *Identified revenue trends, seasonal patterns, and visualized business insights with Seaborn & Matplotlib.*  
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ashir1S)
 
-- **Driver Gaze Detection System (In Progress)** 🚘  
-  Designed custom gaze detection model (BaseGazeModel & SimpleEyeEncoder).  
-  *Collaborating on data integration, DataLoaders, and training/testing pipelines.*  
+<!-- Core Links (Replaced Custom SVGs with Functional Badges) -->
+<p align="center">
+  <samp><b>🚀 SYSTEM ACCESS 🚀</b></samp><br><br>
+  <a href="https://github.com/ashir1S/my-portfolio">
+    <img src="https://img.shields.io/badge/Launch-My_Portfolio-8a49a8?style=for-the-badge&logo=react" alt="Portfolio" />
+  </a>
+  <a href="https://huggingface.co/spaces/Ashirwad12">
+    <img src="https://img.shields.io/badge/Access-Hugging_Face_Spaces-yellow?style=for-the-badge&logo=huggingface" alt="Hugging Face" />
+  </a>
+</p>
 
----
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/ashir1S)
 
-## 💻 Technical Skills  
+# 🛠 Technologies & Core Projects
 
-**Languages**: Python, C/C++, SQL  
-**ML/DL**: PyTorch, Scikit-learn  
-**Data Handling**: MySQL, Pandas, NumPy, Seaborn, Matplotlib  
-**Tools**: Git, GitHub, VS Code, Jupyter, Google Colab, Hugging Face Spaces, AWS (basic)  
+<table border="0" cellspacing="10" cellpadding="0" width="100%">
+<tr>
 
----
+<!-- LEFT: TOOLS -->
+<td width="50%" valign="top" align="center">
 
-## 📜 Certifications  
+<h3>🛠 Technologies</h3>
+<br>
 
-- [PyTorch for Deep Learning Bootcamp — Udemy (2025)](https://www.udemy.com/certificate/UC-1dcb70f3-5a65-40fa-81d5-ee75977564c8/)  
-- [Introduction to Applied Data Science with Python — Simplilearn SkillUp (2025)](https://simpli-web.app.link/e/qW0UkFtgbWb)  
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" title="Python"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" title="PyTorch"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" title="C++"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" title="MySQL"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" title="Git"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" title="Pandas"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32" title="NumPy"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32" title="OpenCV"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="32" title="Scikit-Learn"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" title="GitHub"/></td>
+  </tr>
+</table>
 
----
+</td>
 
-## 🌟 Soft Skills  
+<!-- RIGHT: PROJECTS -->
+<td width="50%" valign="top" align="left">
 
-- Analytical Thinking | Problem Solving | Teamwork | Leadership | Communication | Attention to Detail  
+<h3>🧪 The "Big 4" Deployments</h3>
+<br>
+<ul>
+  <li><b>Jet Particle Classification</b> - <i>1st Runner-Up NSSC '25 (IIT KGP)</i></li>
+  <li><b>Sentinel (Drone Analysis)</b> - <i>National Finalist Jagriti '26 (IIT BHU)</i></li>
+  <li><b>Industrial Part Counting</b> - <i>Top 5 SOLIDWORKS AI '26 (IIT Madras)</i></li>
+  <li><b><a href="https://github.com/ashir1S/FitAI">FitAI</a></b> - <i>Smart Random Forest Recommendation Engine</i></li>
+</ul>
 
----
+</td>
+</tr>
+</table>
 
-<!-- GitHub Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashir1S&layout=compact&theme=react)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/ashir1S)
 
----
+### 📊 Vital Statistics
 
-## 📫 Let’s Connect  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashir1S&theme=radical" alt="Streak" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashirwad-sinha1/)  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashir1S&theme=radical" alt="GitHub profile contribution summary" />
+</p>    
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blueviolet?style=for-the-badge&logo=vercel)](https://my-portfolio-silk-seven-66.vercel.app/)
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashir1S&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
 
-> ⚡ _“Still learning. Still building. One commit at a time.”_
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/ashir1S)
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLAB -->
+<td width="50%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I’m open to collaborating on:
+
+<ul>
+  <li>Computer Vision architectures</li>
+  <li>Predictive ML pipelines</li>
+  <li>End-to-End AI deployments</li>
+  <li>Hackathons & Open Source</li>
+</ul>
+
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="50%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+<br>
+
+<a href="https://www.linkedin.com/in/ashirwad-sinha1">
+  <img src="https://img.shields.io/badge/linkedin-ashirwad--sinha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+<br><br>
+
+<a href="https://github.com/ashir1S">
+  <img src="https://img.shields.io/badge/github-ashir1S-black?style=for-the-badge&logo=github" alt="GitHub profile link">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/ashir1S)
+
+<p align="center">
+⚡ Translating scientific data concepts into optimized production systems.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>

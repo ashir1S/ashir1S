@@ -77,7 +77,7 @@
 <!-- RIGHT: PROJECTS -->
 <td width="50%" valign="top" align="left">
 
-<h3>🏆 The "Big 4" Deployments & Achievements</h3>
+<h3>🧪 The "Big 4" Deployments</h3>
 <br>
 <ul>
   <li><b><a href="https://github.com/ashir1S/IIT_Kh_NSSC_Data_Analytics_Hackathon">Jet Particle Classification</a></b> - <i>1st Runner-Up NSSC '25 (IIT KGP)</i></li>
@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashir1S&theme=radical" alt="GitHub profile contribution summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashir1S&theme=radical&show_icons=true&hide=repos&hide_border=true" alt="GitHub Stats" />
 </p>    
 
 <p align="center">

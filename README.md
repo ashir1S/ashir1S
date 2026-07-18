@@ -81,7 +81,7 @@
 <br>
 <ul>
   <li><b><a href="https://github.com/ashir1S/IIT_Kh_NSSC_Data_Analytics_Hackathon">Jet Particle Classification</a></b> - <i>High-Energy Physics Analysis</i></li>
-  <li><b>Sentinel (Drone Analysis)</b> - <i>Automated Aerial Surveillance Pipeline</i></li>
+  <li><b><a href="https://github.com/ashir1S/Sentinel-Drone-Analysis-IIT-BHU">Sentinel (Drone Analysis)</a></b> - <i>Automated Aerial Surveillance Pipeline</i></li>
   <li><b><a href="https://github.com/ashir1S/IIT_Madras_Solidworks_AI">Industrial Part Counting</a></b> - <i>Manufacturing Computer Vision System</i></li>
   <li><b><a href="https://github.com/ashir1S/Dog-Breed-Classifier">Dog Breed Classifier</a></b> - <i>PyTorch & ResNet-50 Pipeline (>90% Accuracy)</i></li>
 </ul>
